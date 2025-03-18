@@ -21,6 +21,7 @@
                 android:gravity="center"
                 android:textColor="@color/black"
                 android:textStyle="bold"
+                android:fontFamily="@font/bmjua_ttf"
                 android:text="인생은 주사위"/>
 
         </LinearLayout>
@@ -45,6 +46,7 @@
 
         <Button
             android:id="@+id/diceBtn"
+            android:fontFamily="@font/bmjua_ttf"
             android:text="돌리기"
             android:layout_width="match_parent"
             android:layout_height="50dp"
